@@ -1,0 +1,3 @@
+1$10-8-2003$OnCampus$1$2001$Knowledge of Coding$Employee$10$5$500$250
+2$2-3-2020$OffCampus$3$2019$OOP Knowledge$Manager$15$4$50$12
+3$11-11-2011$Online$3$2011$OOP Knowledge$Manager$11$1$11$11

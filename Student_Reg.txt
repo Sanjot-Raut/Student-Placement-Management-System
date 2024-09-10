@@ -1,0 +1,11 @@
+1$SR$2023$BCS$A$21$Georai Tal. Georai Dist. Beed$M$9370321080$sanjotraut10000@gmail.com$Gaming.$C,Cpp and Java.
+2$Ram$2020$BCA$B$22$Georai Tal. loni Dist. nagar$M$9370321080$ram10000@gmail.com$Gaming.$C,Cpp and Java.
+3$Sham$2022$MCS$C$23$Georai Tal. Georai Dist. Beed$M$9370321080$sham10000@gmail.com$Gaming.$C,Cpp and Java.
+4$Tom$2021$MCA$D$24$Georai Tal. Georai Dist. Beed$M$9370321080$tom10000@gmail.com$Gaming.$C,Cpp and Java.
+5$Ganesh$2020$MBA$B$22$Nashik$M$9090570790$ganesh@gmail.com$playing$C
+6$Suresh$2020$MCA$B$22$Nashik$M$9090570790$ganesh@gmail.com$playing$C
+7$Anita$2020$MCS$B$22$Nashik$F$9090570790$ganesh@gmail.com$playing$C
+8$Sunita$2020$BCS$B$22$Nashik$F$9090570790$ganesh@gmail.com$playing$C
+9$Nikita$2020$BCA$B$22$Nashik$F$9090570790$ganesh@gmail.com$playing$C
+10$Kavita$2020$BCS$B$22$Nashik$F$9090570790$ganesh@gmail.com$playing$C
+11$Gajanand$2020$MBA$B$22$Nashik$M$9090570790$ganesh@gmail.com$playing$C
